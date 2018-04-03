@@ -1,0 +1,2 @@
+﻿2018-04-02 19:04:39 [WARNING] 获取SQL审核配置信息失败: SQL_Audit_Control matching query does not exist.
+2018-04-02 19:04:39 [WARNING] 获取Inception服务器信息失败: Inception_Server_Config matching query does not exist.
