@@ -229,7 +229,6 @@ numprocs=1
 
 如果您觉得OpsManage对您有所帮助，可以通过下列方式进行捐赠，谢谢！
 
-![image](https://github.com/welliamcao/OpsManage/blob/master/demo_imgs/donate.png)
 
 ## 部分功能截图:
 Ansible部署功能：
