@@ -225,11 +225,6 @@ numprocs=1
 自行安装Inception与SQLadvisor，SQLadvisor可执行文件请放在OpsManage服务器/usr/bin/sqladvisor路径
 ```
 
-## 提供帮助
-
-如果您觉得OpsManage对您有所帮助，可以通过下列方式进行捐赠，谢谢！
-
-
 ## 部分功能截图:
 Ansible部署功能：
 ![image](https://github.com/welliamcao/OpsManage/blob/master/demo_imgs/ansible.gif)
